@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mcs/amazon-mws": "^0.1.25",
+        "duzun/hquery": "^2.0",
+        "dts/ebay-sdk-php": "^18.0"
+    }
+}
